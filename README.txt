@@ -1,6 +1,6 @@
  Snake Game 
 
-A simple classic **Snake** game built with **Python** and Tkinter
+A simple classic Snake game built with **Python** and Tkinter
 Eat the red food to grow, avoid walls and your own body, and try to beat the High Score
 
 
@@ -45,13 +45,8 @@ python3 snake_tkinter.py
 
 Remarks / Notes
 
-- The **High Score resets** when you close the program.
+- The High Score resets when you close the program.
   - If you want, you can extend the game to **save the high score to a file** (like `highscore.txt`).
 - You can change the game speed by editing:
-DELAY = 120  # lower = faster
+DELAY = 120  ( lower = faster )
 
-
-
-License
-
-Free to use for learning and personal projects.
